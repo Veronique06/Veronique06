@@ -30,7 +30,7 @@
 
 - 🔭 Je travaille actuellement chez **RightCom Technologies**
 - 🌱 Stack actuelle : **Node.js · React · TypeScript · Python · PHP/Laravel · Parse Server · Express · Docker · DevOps**
-- 💬 Spécialités : **APIs REST**, **micro-frontends**, **gestion de files d'attente**
+- 💬 Specialites : **APIs REST**, **micro-frontends**, **gestion de files d'attente**, **affichage dynamique**, **gestion des plaintes et reclamations**
 - 🎯 Créer des **solutions qui ont de l'impact**
 - ☕ Fun fact : Je transforme le thé en code depuis 5 ans
 
