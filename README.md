@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,18,17,14&height=220&section=header&text=Olatoutou%20Aw%C3%AAl%C3%A9%20V%C3%A9ronique%20ODOUNHEWOU&fontSize=36&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Support%20Technique&descAlignY=55&descSize=16&animation=fadeIn&fontColor=cdd6f4&descColor=cba6f7" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,23,18,17,14&height=220&section=header&text=Olatoutou%20Aw%C3%AAl%C3%A9%20V%C3%A9ronique%20ODOUNHEWOU&fontSize=36&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Support%20Engineer&descAlignY=55&descSize=16&animation=fadeIn&fontColor=cdd6f4&descColor=cba6f7" width="100%" />
 
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=cba6f7&center=true&vCenter=true&width=900&height=80&lines=Full-Stack+Developer+%7C+Support+Technique;Node.js+%7C+React+%7C+TypeScript+%7C+PHP+%7C+Python+%7C+Docker;Building+better+solutions%2C+one+commit+at+a+time;B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF+%E2%80%A2+Cotonou" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1200&color=cba6f7&center=true&vCenter=true&width=900&height=80&lines=Full-Stack+Developer+%7C+Software+Support+Engineer;Node.js+%7C+React+%7C+TypeScript+%7C+PHP+%7C+Python+%7C+Docker;Building+better+solutions%2C+one+commit+at+a+time;B%C3%A9nin+%F0%9F%87%A7%F0%9F%87%AF+%E2%80%A2+Cotonou" alt="Typing SVG" />
 
 <br />
 
@@ -54,8 +54,8 @@
 ## ⚡ Stats GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Veronique06&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&ring_color=cba6f7&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veronique06&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" />
+  <img height="165em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Veronique06&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&ring_color=cba6f7&count_private=true" />
+  <img height="165em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Veronique06&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&langs_count=8" />
 </p>
 
 <p align="center">
