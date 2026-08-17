@@ -99,10 +99,6 @@
 
 <div align="center">
 
-> ⚡ L'animation se genere automatiquement chaque jour via GitHub Actions.
-
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Veronique06/Veronique06/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Veronique06/Veronique06/output/github-contribution-grid-snake.svg" />
