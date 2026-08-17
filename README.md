@@ -100,7 +100,6 @@
 <div align="center">
 
 > ⚡ L'animation se genere automatiquement chaque jour via GitHub Actions.
-> Si elle n'apparait pas, lance le workflow `Generate Snake Animation` dans l'onglet **Actions**.
 
 <br />
 
